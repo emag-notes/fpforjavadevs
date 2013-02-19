@@ -1,4 +1,4 @@
-package org.emamotor.fpforjavadevs;
+package org.emamotor.fpforjavadevs.functions;
 
 import static org.junit.Assert.*;
 import org.junit.Test;
